@@ -1,9 +1,10 @@
 {
-    "name": "Drink Water Event Popup",
+    "name": "Get away from desk Event Popup",
     "description": "Demonstrates usage and features of the event page by reminding user to drink water",
     "version": "1.0",
     "manifest_version": 3,
     "permissions": [
+        "tabs",
         "alarms",
         "notifications",
         "storage"
@@ -12,13 +13,13 @@
         "service_worker": "background.js"
     },
     "action": {
-        "default_title": "Drink Water Event",
+        "default_title": "Get up Event",
         "default_popup": "popup.html"
     },
     "icons": {
-        "16": "drink_water16.png",
-        "32": "drink_water32.png",
-        "48": "drink_water48.png",
-        "128": "drink_water128.png"
+        "16": "desk_sitting_16.png",
+        "32": "desk_sitting_32.png",
+        "48": "desk_sitting_16.png",
+        "128": "desk_sitting_16.png"
     }
 }
