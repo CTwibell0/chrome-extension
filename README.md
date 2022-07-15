@@ -1,1 +1,2 @@
-# Codesmith_Hackathon
+# chrome-extension
+chrome extension featuring an alarm
