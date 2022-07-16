@@ -1,6 +1,6 @@
 {
-    "name": "Get away from desk Event Popup",
-    "description": "Demonstrates usage and features of the event page by reminding user to drink water",
+    "name": "Get away from desk Popup",
+    "description": "Creates a reminder to get up out of your chair.",
     "version": "1.0",
     "manifest_version": 3,
     "permissions": [

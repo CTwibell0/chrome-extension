@@ -13,7 +13,7 @@ chrome.alarms.onAlarm.addListener(() => {
   //   priority: 0
   // });
   // open a popup (this worked for me)
-  chrome.windows.create({ url: "test.html", type: "popup", height: 500, width: 500});
+  chrome.windows.create({ url: "test.html", type: "popup", height: 520, width: 550});
   // chrome.tabs.create({
   //   url: 'test.html'
   // });
